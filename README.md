@@ -1,1 +1,1 @@
-# Molecular-Toxicity-Prediction-GNN-vs-Traditional-Ml
+# Molecular-Toxicity-Prediction-GNN-vs-Traditional-ML
